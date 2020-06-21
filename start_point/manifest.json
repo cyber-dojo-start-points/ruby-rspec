@@ -1,0 +1,14 @@
+{
+  "display_name": "Ruby, RSpec",
+  "image_name": "cyberdojofoundation/ruby_rspec",
+  "visible_filenames":
+  [
+    "hiker_spec.rb",
+    "hiker.rb",
+    "cyber-dojo.sh",
+    "coverage.rb"
+  ],
+  "filename_extension": [ ".rb" ],
+  "max_seconds": 10,
+  "tab_size": 2
+}
