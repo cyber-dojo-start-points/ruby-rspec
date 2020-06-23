@@ -11,7 +11,7 @@ describe "hiker" do
 
   context "instance method example" do
     it "multiplies correctly" do
-      expect(Hiker.new.instance_method).to eq(42)
+      expect(Hiker.new.instance_answer).to eq(42)
     end
   end
 
