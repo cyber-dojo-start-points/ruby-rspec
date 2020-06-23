@@ -3,9 +3,15 @@ require_relative 'hiker'
 
 describe "hiker" do
 
-  context "life the universe and everything" do
+  context "global function example" do
     it "multiplies correctly" do
-      expect(answer).to eq(42)
+      expect(global_answer).to eq(42)
+    end
+  end
+
+  context "instance method example" do
+    it "multiplies correctly" do
+      expect(Hiker.new.instance_method).to eq(42)
     end
   end
 
