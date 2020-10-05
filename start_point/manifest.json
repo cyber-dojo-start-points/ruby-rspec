@@ -1,6 +1,6 @@
 {
   "display_name": "Ruby, RSpec",
-  "image_name": "cyberdojofoundation/ruby_rspec:e793022",
+  "image_name": "cyberdojofoundation/ruby_rspec:50f5197",
   "visible_filenames": [
     "hiker_spec.rb",
     "hiker.rb",
