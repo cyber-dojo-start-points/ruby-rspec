@@ -1,6 +1,6 @@
 {
-  "display_name": "Ruby, RSpec",
-  "image_name": "cyberdojofoundation/ruby_rspec:a09cb45",
+  "display_name": "Ruby 3.3.6, RSpec 3.13",
+  "image_name": "ghcr.io/cyber-dojo-languages/ruby_rspec:17bcd83",
   "visible_filenames": [
     "hiker_spec.rb",
     "hiker.rb",

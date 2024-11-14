@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/ruby-rspec.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/ruby-rspec)
+[![Github Action (main)](https://github.com/cyber-dojo-start-points/ruby-rspec/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/ruby-rspec/actions)
 
-### display_name="Ruby, RSpec"
-### image_name="[cyberdojofoundation/ruby_rspec](https://hub.docker.com/repository/docker/cyberdojofoundation/ruby_rspec)"
+### display_name="Ruby 3.3.6, RSpec 3.13"
+### image_name="[ghcr.io/cyber-dojo-languages/ruby_rspec](https://hub.docker.com/repository/docker/cyberdojofoundation/ruby_rspec)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
