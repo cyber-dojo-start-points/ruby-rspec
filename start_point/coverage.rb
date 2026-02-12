@@ -18,7 +18,7 @@ module SimpleCov
       def capture_stdout
         begin
           uncaptured_stdout = $stdout
-          captured_stdout = StringIO.new('', 'w')
+          captured_stdout = StringIO.new(+'', 'w')
           $stdout = captured_stdout
           yield
           $stdout.string
