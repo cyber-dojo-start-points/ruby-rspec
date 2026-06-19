@@ -1,5 +1,13 @@
 {
   "display_name": "Ruby 4.0.1, RSpec 3.13",
+  "language": [
+    "Ruby",
+    "4.0.1"
+  ],
+  "test_framework": [
+    "RSpec",
+    "3.13"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/ruby_rspec:961d9ee",
   "visible_filenames": [
     "hiker_spec.rb",
