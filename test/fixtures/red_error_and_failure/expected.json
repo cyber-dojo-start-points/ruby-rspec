@@ -1,0 +1,8 @@
+{
+  "matches": [ "^            got: 54$" ],
+  "match_counts": {
+    "^     ZeroDivisionError:$": 1,
+    "^  [0-9]+\\) hiker ": 2,
+    "^2 examples, 2 failures$": 1
+  }
+}

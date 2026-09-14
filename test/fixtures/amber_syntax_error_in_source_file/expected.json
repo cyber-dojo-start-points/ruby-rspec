@@ -1,0 +1,8 @@
+{
+  "matches": [ "^SyntaxError:$" ],
+  "match_counts": {
+    "^While loading \\./hiker_spec\\.rb a .raise SyntaxError. occurred, RSpec will now quit\\.$": 1,
+    "^Failure/Error: require_relative 'hiker'$": 1,
+    "^0 examples, 0 failures, 1 error occurred outside of examples$": 1
+  }
+}

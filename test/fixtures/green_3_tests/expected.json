@@ -1,0 +1,6 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^3 examples, 0 failures$": 1
+  }
+}

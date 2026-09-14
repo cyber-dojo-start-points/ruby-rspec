@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^  [0-9]+\\) hiker ": 3,
+    "^     Failure/Error: ": 3,
+    "^3 examples, 3 failures$": 1
+  }
+}

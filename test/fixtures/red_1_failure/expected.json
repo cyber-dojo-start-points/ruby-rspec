@@ -1,0 +1,8 @@
+{
+  "matches": [ "^       expected: 42$", "^            got: 54$" ],
+  "match_counts": {
+    "^  1\\) hiker is the answer to life the universe and everything$": 1,
+    "^     Failure/Error: expect\\(answer\\)\\.to eq\\(42\\)$": 1,
+    "^1 example, 1 failure$": 1
+  }
+}

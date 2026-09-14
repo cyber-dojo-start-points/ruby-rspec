@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 50,
+  "match_counts": {
+    "^     NoMethodError:$": 1,
+    "^       undefined method 'putts' for #<RSpec::ExampleGroups::Hiker:0x[0-9a-f]+>$": 1,
+    "^1 example, 1 failure$": 1
+  }
+}

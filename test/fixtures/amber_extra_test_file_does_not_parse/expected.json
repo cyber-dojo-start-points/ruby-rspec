@@ -1,0 +1,7 @@
+{
+  "matches": [ "^SyntaxError:$" ],
+  "match_counts": {
+    "^While loading \\./answer_size_spec\\.rb a .raise SyntaxError. occurred, RSpec will now quit\\.$": 1,
+    "^1 example, 0 failures, 1 error occurred outside of examples$": 1
+  }
+}

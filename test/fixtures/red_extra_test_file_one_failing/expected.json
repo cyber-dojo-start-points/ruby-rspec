@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^  1\\) answer size is three digits long$": 1,
+    "^     Failure/Error: expect\\(answer\\.to_s\\.size\\)\\.to eq\\(3\\)$": 1,
+    "^2 examples, 1 failure$": 1
+  }
+}

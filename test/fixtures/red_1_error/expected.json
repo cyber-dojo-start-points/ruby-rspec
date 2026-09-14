@@ -1,0 +1,8 @@
+{
+  "matches": [ "^       divided by 0$" ],
+  "match_counts": {
+    "^     ZeroDivisionError:$": 1,
+    "^  1\\) hiker is the answer to life the universe and everything$": 1,
+    "^1 example, 1 failure$": 1
+  }
+}

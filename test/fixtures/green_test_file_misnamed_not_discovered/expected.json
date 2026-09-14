@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^1 example, 0 failures$": 1,
+    "misnamed hiker": 0,
+    "three digits long": 0
+  }
+}

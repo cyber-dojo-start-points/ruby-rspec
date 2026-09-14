@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^     ZeroDivisionError:$": 2,
+    "^       divided by 0$": 2,
+    "^  [0-9]+\\) hiker ": 2,
+    "^2 examples, 2 failures$": 1
+  }
+}

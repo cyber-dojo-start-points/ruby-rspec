@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^     NameError:$": 1,
+    "^       undefined local variable or method 'ansewr' for #<RSpec::ExampleGroups::Hiker:0x[0-9a-f]+>$": 1,
+    "^1 example, 1 failure$": 1
+  }
+}
